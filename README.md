@@ -1,5 +1,7 @@
-# Knowledge Check #1
-## Web Development - Course 1
+
+# Polar Bears or rather Jade Farmer had too much fun with polar bears
+## Knowledge Check #1
+### Web Development - Course 1
 
 Welcome to your first knowledge check for Code Louisville's Web Development Track. Please reveiw the following list of changes and corrections to the following site. The following assesment is `Open Book` meaning you may use the internet, books, and notes to arrive at your answers. 
 
